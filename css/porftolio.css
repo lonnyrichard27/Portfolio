@@ -1,0 +1,36 @@
+.logo{
+  height: 3rem;
+}
+img.img-responsive.oluwaloni {
+  border-radius: 50px 50px 50px 50px;
+  height: 169px;
+} 
+.button.btn.btn-info {
+  margin-left: 467px;
+}
+.a.nav-link.name {
+  line-height: 1.5px;
+  font-size: larger;
+}
+img.git {
+  height: 28px;
+  padding: 6px;
+}
+.container.about{
+  background-color:#ECECEC;
+  border-radius: 31px;
+  padding: 30px;
+}
+button.btn.btn-dark {
+  margin: 2px;
+}
+img.bitmoji {
+  height: 48px;
+  margin-bottom: 6px;
+  background-color: #ECECEC;
+}
+a{
+  color: black;
+  text-decoration: none;
+  background-color: transparent;
+}
